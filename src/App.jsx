@@ -1,12 +1,10 @@
 import React from "react";
-import "./global.css"
-import Nav from './Components/Nav';
+import Kia from './NavBars/Kia';
+import STYLE from "/.kia.module.css"
 const App=() =>{
     return (
         <div>
-            <>
-         <Nav/>
-            </>
+          <Kia/>
         </div>
     )
 }
