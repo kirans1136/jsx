@@ -1,23 +1,13 @@
 import React from "react";
-import Kia from './NavBars/Kia';
-import Ford from './NavBars/Ford';
-import Jaguar from "./NavBars/Jaguar";
-import SkoDa from './NavBars/SkoDa';
-import Tata from './NavBars/Tata';
-
+import Fbc from "./Props/Fbc";
 
 
 
 const App=() =>{
     return (
-        <div>
-         <Kia/>
-         <Ford/>
-         <Jaguar/>
-        <SkoDa/>
-        <Tata/>
-         
-        </div>
+        <>
+   <Fbc data="hellow"/>
+   </>
     )
 }
 export default App
