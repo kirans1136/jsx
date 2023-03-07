@@ -1,13 +1,13 @@
 import React from "react";
-import Fbc from "./Props/Fbc";
+import { Component } from "react";
+import Cbc from './Props/Cbc';
 
-
-
-const App=() =>{
-    return (
-        <>
-   <Fbc data="hellow"/>
-   </>
-    )
+class App extends Component{
+    render()
+    {
+        return(
+            <Cbc data="hello"/>
+        )
+    }
 }
 export default App
