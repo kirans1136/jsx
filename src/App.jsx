@@ -1,23 +1,12 @@
 import React from "react";
-import Kia from './NavBars/Kia';
-import Ford from './NavBars/Ford';
-import Jaguar from "./NavBars/Jaguar";
-import SkoDa from './NavBars/SkoDa';
-import Tata from './NavBars/Tata';
+import Img from "./images.jpeg"
 
-
-
-
-const App=() =>{
-    return (
-        <div>
-         <Kia/>
-         <Ford/>
-         <Jaguar/>
-        <SkoDa/>
-        <Tata/>
-         
-        </div>
+const App =()=>{
+    return(
+        <>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3STpHoQ2-Uq34usz_4--FbOVvbsgGy9iCEQ&usqp=CAU" alt="" />
+        <img src={Img} alt="" />
+        </>
     )
 }
 export default App
