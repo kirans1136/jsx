@@ -1,0 +1,43 @@
+.menuBlock ul li{
+width: auto;
+align-items: center;
+display: flex;
+justify-content: center;
+
+
+}
+ li{
+ list-style-type: none;
+ justify-content: space-around;
+ padding-left: 30px;
+
+
+}
+a{
+    display: flex;
+    text-decoration: none;
+    color: rgb(201, 195, 195);
+    justify-content: center;
+}
+img{
+    height: 60px;
+    width: 60px;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+ul{
+    display: flex;
+    text-decoration: none;
+    justify-content:end;
+    align-content: center;
+    margin-top: 30px;
+    margin-right: 30px;
+  
+}
+.navBlock{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(78, 74, 74);
+    height: 75px;
+
+}
