@@ -1,0 +1,246 @@
+[
+    {
+        "MobilePhoto":"https://static.wixstatic.com/media/6fdaa2_ce61217f5cd34a28a3d979591063585c~mv2.jpg/v1/fill/w_484,h_602,al_c,lg_1,q_85/6fdaa2_ce61217f5cd34a28a3d979591063585c~mv2.webp",
+        "MobileName":"one plus Nord",
+        "Features": ["128 GB "," 6 GB RAM"],
+        "Price":"₹.12,980.00"
+    },
+    {
+        "MobilePhoto":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-g990elviinu/gallery/in-galaxy-s21-fe-g990-sm-g990elviinu-thumb-530606545?imwidth=480",
+        "MobileName":"Samsung GAlaxy S21",
+        "Features": ["256 GB "," 12 GB RAM"],
+        "Price":"₹.30,000.00"
+    },
+    {
+        "MobilePhoto":"https://images.samsung.com/is/image/samsung/p6pim/in/sm-a235flbhins/gallery/in-galaxy-a23-sm-a235-sm-a235flbhins-531577286?$730_584_PNG$",
+        "MobileName":"Samsung GAlaxy A23",
+        "Features": ["128 GB ", " 6 GB RAM"],
+        "Price":"₹.18,980.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41qLZhKF5ZL._SL500_.jpg",
+        "MobileName":"one plus Nord T2",
+        "Features": ["128 GB "," 8 GB RAM"],
+        "Price":"₹.28,999.00"
+    },
+    {
+        "MobilePhoto":"https://d2xamzlzrdbdbn.cloudfront.net/products/989e9e64-7e4e-48a8-90a6-1bfd633ace8c23021127_416x416.jpg",
+        "MobileName":"Samsung GAlaxy S23",
+        "Features": ["256 GB ","12 GB RAM"],
+        "Price":"₹.1,24,999.00"
+    },
+    {
+        "MobilePhoto":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662436197/Croma%20Assets/Communication/Mobiles/Images/252418_hz8qqi.png/mxw_2048,f_auto",
+        "MobileName":"one plus 10R",
+        "Features": ["128 GB "," 8 GB RAM"],
+        "Price":"₹.30,980.00"
+    },
+    {
+        "MobilePhoto":"https://img3.gadgetsnow.com/gd/images/products/additional/large/G406451_View_3/mobiles/smartphones/realme-10-pro-plus-128-gb-nebula-blue-6-gb-ram-.jpg",
+        "MobileName":"Real me 10pro",
+        "Features": ["128 GB ","6 GB RAM"],
+        "Price":"₹.25,980.00"
+    },
+    {
+        "MobilePhoto":"https://www.hilaptop.com/userdata/public/gfx/33630.jpg",
+        "MobileName":"Samsung GalaxyS21ult",
+        "Features": ["256 GB ","12 GB RAM"],
+        "Price":"₹.21,999.00"
+    },
+    {
+        "MobilePhoto":"https://d2xamzlzrdbdbn.cloudfront.net/products/3faafc34-74fa-40d5-8d7d-70105c962e2d22090646_416x416.jpg",
+        "MobileName":"Apple IPhone14ProMax",
+        "Features": ["256 GB Storage "],
+        "Price":"₹.1,49,900.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41QPv5h1veL._SL500_.jpg",
+        "MobileName":"Samsung GalaxyS22ult",
+        "Features": ["256 GB ","12 GB RAM"],
+        "Price":"₹.1,29,900.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/413fd9o3AgL._SY300_SX300_.jpg",
+        "MobileName":" Samsung Galaxy S21",
+        "Features": ["128 GB ","8 GB RAM"],
+        "Price":"₹.38,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/81vDZyJQ-4L._AC_UY327_FMwebp_QL65_.jpg",
+        "MobileName":"Samsung GAlaxy S20",
+        "Features": ["128 GB ","8 GB RAM"],
+        "Price":"₹.34,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41eSQvTbsaL._SY300_SX300_.jpg",
+        "MobileName":"one plus 11T",
+        "Features": ["256 GB ","16 GB RAM"],
+        "Price":"₹.61,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/4105IiC5tDL._SY300_SX300_.jpg",
+        "MobileName":"iQOO Z6",
+        "Features": ["128 GB ","6 GB RAM"],
+        "Price":"₹.15,499.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/91p5L+GitZL._SX679_.jpg",
+        "MobileName":"realme narzo 50",
+        "Features": ["128 GB ","6 GB RAM"],
+        "Price":"₹.15,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/51EknP3PutL._SX679_.jpg",
+        "MobileName":"Lava Blaze 5G",
+        "Features": ["128 GB ","4 GB RAM"],
+        "Price":" ₹.10,999.00"
+    },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/81ZZPvIWnYL._SX679_.jpg",
+            "MobileName":"Redmi Note 12 ",
+            "Features": ["128 GB ","4 GB RAM"],
+            "Price":" ₹.17,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/8104evx11QL._SX679_.jpg",
+            "MobileName":"Oppo A78 ",
+            "Features": ["256 GB ","12 GB RAM"],
+            "Price":"₹.18,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/41vTzQLZgVL._SY300_SX300_.jpg",
+            "MobileName":"Tecno Phantom ",
+            "Features": ["256 GB ","8 GB RAM"],
+            "Price":" ₹.39,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/71emcsxsRPL._SX679_.jpg",
+            "MobileName":"Apple iPhone 14 Plus",
+            "Features": ["128 GB"],
+            "Price":"₹.88,230.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/31DDdSncAaL._SY300_SX300_.jpg",
+            "MobileName":"Xiaomi 11i ",
+            "Features": ["128 GB ","8 GB RAM"],
+            "Price":"₹.25,889.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/31kLWvXbGrL._SY300_SX300_.jpg",
+            "MobileName":"Vivo U20",
+            "Features": ["64GB "," 4GB RAM"],
+            "Price":"₹21,000.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/31-lVlmtanL._SY300_SX300_.jpg",
+            "MobileName":"Xiaomi 11 Lite",
+            "Features": ["128 GB "," 8GB RAM"],
+            "Price":" ₹.28,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/41k-y7A3syL._SY300_SX300_.jpg",
+            "MobileName":"Xiaomi 11T Pro ",
+            "Features": ["256 GB "," 8GB RAM"],
+            "Price":" ₹.38,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/31UhwG+XTJL._SY300_SX300_.jpg",
+            "MobileName":"Xiaomi 12 Pro",
+            "Features": ["256GB"," 12GB RAM"],
+            "Price":" ₹56,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/812MBICsvnL._SY879_.jpg",
+            "MobileName":"Poco F1 by Xiaomi ",
+            "Features": ["128GB"," 6GB RAM"],
+            "Price":"₹10,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/41++SzbW8UL._SY300_SX300_.jpg",
+            "MobileName":"vivo y19",
+            "Features": ["128 GB ","4GB RAM"],
+            "Price":" ₹.20,000.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/81xvGbBFNhL._SX679_.jpg",
+            "MobileName":"Samsung GAlaxy M33",
+            "Features": ["128 GB "," 8GB RAM"],
+            "Price":"₹19,499.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/41Vj+8XWIQL._SY300_SX300_.jpg",
+            "MobileName":"Samsung Galaxy M13",
+            "Features": ["64 GB ","4GB RAM"],
+            "Price":" ₹10,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/810Rscvmd4L._SX679_.jpg",
+            "MobileName":"Samsung Galaxy M53",
+            "Features": ["128 GB RAM","8 GB ROM"],
+            "Price":" ₹25,999.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/31-UcsvlnmL._SY300_SX300_.jpg",
+            "MobileName":"SAMSUNG GURU",
+            "Features": ["SM-315 Gold"],
+            "Price":" ₹2,074.00"
+        },
+        {
+            "MobilePhoto":"https://m.media-amazon.com/images/I/41AfIJvGejL._SY300_SX300_.jpg",
+            "MobileName":"Samsung Guru Music ",
+            "Features": ["SM-B315EZWDINS"],
+            "Price":"₹2,094.00"
+        },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41VXbrTjU7L._SY300_SX300_.jpg",
+        "MobileName":"Nokia 110 ",
+        "Features": ["Auto Call Recording"],
+        "Price":" ₹1,499.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/61Am9czi-gL._SY879_.jpg",
+        "MobileName":"Lava A3",
+        "Features": ["1750 mAh ,32 GB"],
+        "Price":" ₹1,212.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/31A9hp6B1CL._SY300_SX300_.jpg",
+        "MobileName":"Lava Flip",
+        "Features": [" LED and Number Talker"],
+        "Price":"₹1,911.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/610PI9zfgxL._SX679_.jpg",
+        "MobileName":"Samsung Galaxy Z Flip4",
+        "Features": ["128 GB 8 GB RAM"],
+        "Price":"₹89,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41GWB0oiUsL._SY300_SX300_.jpg",
+        "MobileName":"Galaxy Z Fold3",
+        "Features": ["256GB","12 GB RAM"],
+        "Price":"₹99,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41yx-OTfNwL._SY300_SX300_.jpg",
+        "MobileName":"Oppo A78",
+        "Features": ["128 GB "," 8GB RAM"],
+        "Price":"₹18,999.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/31D5TwSSsqL._SY300_SX300_.jpg",
+        "MobileName":"Oppo Reno 8T",
+        "Features": ["128GB "," 6GB RAM"],
+        "Price":" ₹29,990.00"
+    },
+    {
+        "MobilePhoto":"https://m.media-amazon.com/images/I/41wySrJu0nL._SY300_SX300_.jpg",
+        "MobileName":"Nokia G60 ",
+        "Features": ["128GB"," 8GB RAM"],
+        "Price":"₹29,000.00"
+    }
+   
+
+
+           ]
+
