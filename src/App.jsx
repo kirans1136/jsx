@@ -1,14 +1,19 @@
-import React from 'react'
-import Mobile from './json/mobiledata.json'
-import Mobiles from './json/Mobiles';
-import "./json/mobile.css"
-
-const App = () => {
-  return (
-    <div>
-        <Mobiles new={Mobile}/>
-    </div>
-  )
+import React, { Component } from 'react'
+import School from './States/School.jsx';
+import JSON from "./States/School.json"
+export default class App extends Component {
+  constructor(){
+    super()
+    this.state={
+      json:JSON
+    }
+  }
+  render() 
+   {
+    return (
+      <div>
+       <School data={this.state.json}/>
+      </div>
+    )
+  }
 }
-
-export default App
