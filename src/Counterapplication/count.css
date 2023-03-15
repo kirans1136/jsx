@@ -1,0 +1,31 @@
+*{
+    color: brown;
+    align-content: center;
+    background-color:rgba(146, 182, 209, 0.973);
+}
+h1{
+    text-align: center;
+    background-color: rgb(60, 221, 245);
+    align-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 100px;
+    padding-top: 50px;
+    border: 2px solid rgb(201, 123, 123);
+    
+}
+.num{
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+}
+
+button{
+    background-color: rgba(239, 255, 9, 0.993);
+    padding: 10px;
+    border: 2px solid brown;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+}
