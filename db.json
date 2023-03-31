@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "courcename": "mern",
+      "authorname": "rahul",
+      "id": 1
+    },
+    {
+      "courcename": "java",
+      "authorname": "shankar",
+      "id": 2
+    },
+    {
+      "courcename": "devops",
+      "authorname": "kiran",
+      "id": 3
+    },
+    {
+      "courcename": "sql",
+      "authorname": "mohan",
+      "id": 4
+    }
+
+  ]
+}

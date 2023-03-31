@@ -1,9 +1,17 @@
 import React from "react";
-const Nav =(props)=>{
+import { Link } from "react-router-dom";
+const Nav =()=>{
     return(
-      <h1>
-        {props.number} {props.bollean}{ props.data}
-      </h1>
+     <div>
+     <ol style={{alignItems:"end", display:"flex" ,listStyleType:"none",justifyContent:"space-between" ,justifyItems:"flex-end" , textDecorationStyle:"none"}}>
+      <li>
+        <Link to="/">Login</Link>
+      </li>
+      <li>
+        <Link to="/Login">Signup</Link>
+      </li>
+     </ol>
+     </div>
     )
 }
 export default Nav
